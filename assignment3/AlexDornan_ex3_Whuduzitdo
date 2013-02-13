@@ -1,0 +1,29 @@
+Alex Dornan
+Whuduzitdo Assignment 3
+
+4.0
+	ymax = 2.00000
+	indexOfMax = 3
+	xAtMax = 1.00000
+5.0
+	filename = Planck_T07500_00150nm_to_01500nm.dat
+6.0
+	           5
+     -2.00000     -1.00000      0.00000      1.00000      2.00000
+      4.00000      1.00000      0.00000      1.00000      4.00000
+	Long and floats
+6.1
+	Would not succeed because it reads the file line by line
+6.2
+	It created a binary file. We would not be able to read it with a text editor. It wrote one long and 10 		floats
+	It does not succeed
+7.0
+	The order of x values is indices
+	the corisponding y values gets printed
+7.1
+	g equals zero or false
+7.2
+	ibigCount = 4
+	imidCount = 0
+	x[ibig] = 7.00000 9.00000 11.0000 13.0000
+	x[imid] = 13.0000
